@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="x.com/unreal_eemi" target="_blank">
+  <a href="https://x.com/unreal_eemi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="50" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@00eemi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="80" height="50" alt="youtube logo"  />
   </a>
-  <a href="instagram.com/eemi_illi08/?next=%2F" target="_blank">
+  <a href="https://www.instagram.com/eemi_illi08/?next=%2F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="50" alt="instagram logo"  />
   </a>
 </div>
